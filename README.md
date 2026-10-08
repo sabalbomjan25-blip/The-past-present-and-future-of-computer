@@ -19,5 +19,7 @@ The Future
 The future of computers is expected to bring even greater changes. Computers will likely become faster, smaller and more energy-efficient. AI may become more useful in areas such as education, medicine, transportation and scientific research. Computers may also become better at understanding human language and helping people with complicated tasks.
 Quantum computing is another promising area. Although it is still being developed, quantum computers could eventually solve certain problems much faster than traditional computers.
 Future technology may also include more advanced wearable devices and brain-computer interfaces that allow people to interact with computers in new ways. However, as technology develops, privacy and cybersecurity will become increasingly important.
+
 Conclusion
+
 In conclusion, computers have developed from large and simple calculating machines into powerful technologies that are now a major part of everyday life. The present generation of computers is already highly advanced, but the future could bring changes that are even more remarkable.
